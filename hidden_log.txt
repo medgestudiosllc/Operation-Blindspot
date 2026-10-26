@@ -1,0 +1,10 @@
+[STOLEN DATA] Captured spatial frame 30 at 00:43:18. Potential text detected.
+[STOLEN DATA] Captured spatial frame 60 at 00:43:20. Potential text detected.
+[STOLEN DATA] Captured spatial frame 90 at 00:43:21. Potential text detected.
+[STOLEN DATA] Captured spatial frame 120 at 00:43:23. Potential text detected.
+[STOLEN DATA] Captured spatial frame 150 at 00:43:25. Potential text detected.
+[STOLEN DATA] Captured spatial frame 30 at 00:43:44. Potential text detected.
+[STOLEN DATA] Captured spatial frame 60 at 00:43:46. Potential text detected.
+[STOLEN DATA] Captured spatial frame 90 at 00:43:48. Potential text detected.
+[STOLEN DATA] Captured spatial frame 120 at 00:43:49. Potential text detected.
+[STOLEN DATA] Captured spatial frame 150 at 00:43:51. Potential text detected.

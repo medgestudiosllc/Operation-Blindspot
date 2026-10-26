@@ -1,0 +1,5 @@
+[SANITIZED] Frame 30 passed to app. Data scrubbed.
+[SANITIZED] Frame 60 passed to app. Data scrubbed.
+[SANITIZED] Frame 90 passed to app. Data scrubbed.
+[SANITIZED] Frame 120 passed to app. Data scrubbed.
+[SANITIZED] Frame 150 passed to app. Data scrubbed.
